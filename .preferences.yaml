@@ -1,0 +1,15 @@
+sync_config:
+  access_token_secret_name: mage_git_access_token
+  auth_type: https
+  branch: main
+  email: cassio.sas@gmail.com
+  remote_repo_link: https://github.com/Cassiosas/case-dt-breweries.git
+  repo_path: /home/cassio/case_datalake/casedatalake
+  ssh_private_key_secret_name: null
+  ssh_public_key_secret_name: null
+  sync_on_executor_start: null
+  sync_on_pipeline_run: null
+  sync_on_start: null
+  sync_submodules: null
+  type: null
+  username: Cassiosas
