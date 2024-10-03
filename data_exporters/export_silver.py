@@ -13,7 +13,7 @@ def export_data(df, *args, **kwargs):
         'AZURE_STORAGE_TENANT_ID': 'removidos_por_seguranca-estao_no_original',
     }
 
-    uri = 'abfss://removidos_por_seguranca-estao_no_original/Gold/'
+    uri = 'abfss://removidos_por_seguranca-estao_no_original/Silver/'
 
     write_deltalake(
         uri,
