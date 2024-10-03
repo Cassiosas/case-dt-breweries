@@ -1,0 +1,14 @@
+triggers:
+- description: null
+  envs: []
+  last_enabled_at: 2024-10-03 01:26:37.452764
+  name: trigger_brewerie
+  pipeline_uuid: breweries_pipe
+  schedule_interval: '@daily'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-10-02 01:40:00
+  status: active
+  token: 04af2da207c3405fba2952e4e290701d
+  variables: {}
